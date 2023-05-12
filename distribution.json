@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
+  "version": "1.4.1",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,7 +12,7 @@
       "name": "SDL (Minecraft 1.18.2)",
       "description": "SDL Ejecutando Minecraft 1.18.2 (Forge v40.2.2)",
       "icon": "https://cdn.discordapp.com/attachments/1103498515499458560/1106646221541621902/SaquenmeDeLatam_Texto_V3.png",
-      "version": "1.4.0",
+      "version": "1.4.1",
       "address": "194.140.198.244:25503",
       "minecraftVersion": "1.18.2",
       "discord": {
@@ -4555,6 +4555,17 @@
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/resourcepacks/MandalasGUI_Legacy+Modded_Dakmode_v3.8.9.zip",
             "MD5": "0ea3021dbc5e3e70c6f2904865ab961f",
             "path": "resourcepacks/MandalasGUI_Legacy+Modded_Dakmode_v3.8.9.zip"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 14243,
+            "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/servers.dat",
+            "MD5": "422ca49911689755bd79ae7f78fa92dd",
+            "path": "servers.dat"
           }
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -10,9 +10,9 @@
     {
       "id": "SDL-1.18.2",
       "name": "SDL (Minecraft 1.18.2)",
-      "description": "SDL Running Minecraft 1.18.2 (Forge v40.2.2)",
-      "icon": null,
-      "version": "1.0.0",
+      "description": "SDL Ejecutando Minecraft 1.18.2 (Forge v40.2.2)",
+      "icon": "https://cdn.discordapp.com/attachments/1103498515499458560/1106508964163756032/SaquenmeDeLatam_Texto_V2.png",
+      "version": "1.1.0",
       "address": "194.140.198.244:25503",
       "minecraftVersion": "1.18.2",
       "discord": {
@@ -20,7 +20,7 @@
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": false,
+      "mainServer": true,
       "autoconnect": false,
       "modules": [
         {
@@ -880,6 +880,16 @@
             "size": 72890,
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/forgemods/required/InsaneLib-1.5.3-mc1.18.2.jar",
             "MD5": "99e2a21ec2d5fb5c89063498381083be"
+          }
+        },
+        {
+          "id": "cpw.mods:inventorysorter:19.0.0@jar",
+          "name": "Simple Inventory Sorter",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 50308,
+            "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/forgemods/required/inventorysorter-1.18-19.0.0.jar",
+            "MD5": "e24f2ae7a60c944cd9f1a6e05a8f956e"
           }
         },
         {
@@ -4446,9 +4456,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 8502,
+            "size": 8642,
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/options.txt",
-            "MD5": "9c7a4f53dc47a7fc6f044dc25da2a067",
+            "MD5": "96181e840c9131b8c5716b92cda6e406",
             "path": "options.txt"
           }
         },

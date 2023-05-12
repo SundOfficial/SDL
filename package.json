@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
-  "version": "2.0.4",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "name": "sdl",
+  "version": "1.0.0",
+  "productName": "SDL Launcher",
+  "description": "Launcher Oficial de SDL",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) modificado por Sund",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/SundOfficial/SDL",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/SundOfficial/SDL/issues"
   },
   "private": true,
   "main": "index.js",
@@ -44,6 +44,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/SundOfficial/SDL.git"
   }
 }

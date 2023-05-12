@@ -1,0 +1,20 @@
+{
+  "$schema": "file:///C:/NebulaWorkspace/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "SDL (Minecraft 1.18.2)",
+    "description": "SDL Running Minecraft 1.18.2 (Forge v40.2.2)",
+    "address": "194.140.198.244:25503",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "40.2.2"
+  },
+  "untrackedFiles": []
+}

@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,7 +12,7 @@
       "name": "SDL (Minecraft 1.18.2)",
       "description": "SDL Ejecutando Minecraft 1.18.2 (Forge v40.2.2)",
       "icon": "https://cdn.discordapp.com/attachments/1103498515499458560/1106508964163756032/SaquenmeDeLatam_Texto_V2.png",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "address": "194.140.198.244:25503",
       "minecraftVersion": "1.18.2",
       "discord": {
@@ -613,6 +613,16 @@
           }
         },
         {
+          "id": "com.simibubi:create:0.5.0.i@jar",
+          "name": "Create",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 13322194,
+            "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/forgemods/required/create-1.18.2-0.5.0.i.jar",
+            "MD5": "a76ff4f84748552fe28ae57aa569b9f0"
+          }
+        },
+        {
           "id": "team.creative:creativecore:0.0.0@jar",
           "name": "CreativeCore",
           "type": "ForgeMod",
@@ -813,6 +823,16 @@
           }
         },
         {
+          "id": "com.jozufozu:flywheel:0.6.8.a@jar",
+          "name": "Flywheel",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 543654,
+            "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/forgemods/required/flywheel-forge-1.18.2-0.6.8.a.jar",
+            "MD5": "cf0270b5afb319aac5b6e0b42c9f7af6"
+          }
+        },
+        {
           "id": "bre2el.fpsreducer:fpsreducer:1.18.2-2.0@jar",
           "name": "FPS Reducer",
           "type": "ForgeMod",
@@ -880,16 +900,6 @@
             "size": 72890,
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/forgemods/required/InsaneLib-1.5.3-mc1.18.2.jar",
             "MD5": "99e2a21ec2d5fb5c89063498381083be"
-          }
-        },
-        {
-          "id": "cpw.mods:inventorysorter:19.0.0@jar",
-          "name": "Simple Inventory Sorter",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 50308,
-            "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/forgemods/required/inventorysorter-1.18-19.0.0.jar",
-            "MD5": "e24f2ae7a60c944cd9f1a6e05a8f956e"
           }
         },
         {
@@ -2399,9 +2409,9 @@
           "name": "last_working_configs_backup.zip",
           "type": "File",
           "artifact": {
-            "size": 42648,
+            "size": 42644,
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/byg/backups/last_working_configs_backup.zip",
-            "MD5": "17a146eaa642276d38b6aa3286fa2ea7",
+            "MD5": "f497ad18099764e5118e2247b092ec7a",
             "path": "config/byg/backups/last_working_configs_backup.zip"
           }
         },
@@ -2879,6 +2889,28 @@
           }
         },
         {
+          "id": "create-client.toml",
+          "name": "create-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 4449,
+            "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/create-client.toml",
+            "MD5": "4d8aa8547e9fc3cc24fd560c5c8afdfa",
+            "path": "config/create-client.toml"
+          }
+        },
+        {
+          "id": "create-common.toml",
+          "name": "create-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1293,
+            "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/create-common.toml",
+            "MD5": "11008e38aaf74bd8f7352ddd8dba9e5b",
+            "path": "config/create-common.toml"
+          }
+        },
+        {
           "id": "domestication-innovation.toml",
           "name": "domestication-innovation.toml",
           "type": "File",
@@ -2982,9 +3014,9 @@
           "name": "customizablemenus.txt",
           "type": "File",
           "artifact": {
-            "size": 587,
+            "size": 733,
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/fancymenu/customizablemenus.txt",
-            "MD5": "66744598ff173f2fa21e1ea12816e065",
+            "MD5": "70efd31ac3bbe005017851e9c47c1359",
             "path": "config/fancymenu/customizablemenus.txt"
           }
         },
@@ -2993,9 +3025,9 @@
           "name": "menu.txt",
           "type": "File",
           "artifact": {
-            "size": 4742,
+            "size": 4810,
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/fancymenu/customization/menu.txt",
-            "MD5": "00543cb998eb3eae1485e733c0244269",
+            "MD5": "25bac90a0dae48bb09bf613037e77c4b",
             "path": "config/fancymenu/customization/menu.txt"
           }
         },
@@ -3149,7 +3181,7 @@
           "artifact": {
             "size": 1077,
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/fastload.properties",
-            "MD5": "17a92d46873b624e9a5e2cab8a8dff92",
+            "MD5": "8d37ac89d578a00f8927b309439c98ee",
             "path": "config/fastload.properties"
           }
         },
@@ -3173,6 +3205,17 @@
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/flashnpcs-common.toml",
             "MD5": "102271c1fbdcd134fed8912dfb1a0ef4",
             "path": "config/flashnpcs-common.toml"
+          }
+        },
+        {
+          "id": "flywheel-client.toml",
+          "name": "flywheel-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 274,
+            "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/flywheel-client.toml",
+            "MD5": "7deb8231cf3b6d45def6a5b7a3c032fd",
+            "path": "config/flywheel-client.toml"
           }
         },
         {
@@ -3455,9 +3498,9 @@
           "name": "jade_plugins.json",
           "type": "File",
           "artifact": {
-            "size": 1157,
+            "size": 1308,
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/jade/jade_plugins.json",
-            "MD5": "7d46bd78a8633c995054ecebe609d030",
+            "MD5": "918d594eb703203e8d9d39e569039b9f",
             "path": "config/jade/jade_plugins.json"
           }
         },
@@ -3477,9 +3520,9 @@
           "name": "ingredient-list-mod-sort-order.ini",
           "type": "File",
           "artifact": {
-            "size": 792,
+            "size": 799,
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/jei/ingredient-list-mod-sort-order.ini",
-            "MD5": "adfe6c836c339b4165d9154cb2d2719f",
+            "MD5": "6850ec3b05765296503c99eef64990cc",
             "path": "config/jei/ingredient-list-mod-sort-order.ini"
           }
         },
@@ -3499,9 +3542,9 @@
           "name": "recipe-category-sort-order.ini",
           "type": "File",
           "artifact": {
-            "size": 365,
+            "size": 859,
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/jei/recipe-category-sort-order.ini",
-            "MD5": "6e2eafe212ffd30e8e7d58989398bcf5",
+            "MD5": "579abf2eb6a2f0241429d4ef95ff28f5",
             "path": "config/jei/recipe-category-sort-order.ini"
           }
         },
@@ -3633,7 +3676,7 @@
           "artifact": {
             "size": 236,
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/oculus.properties",
-            "MD5": "4c8ff8924b89c91f67fffaab0283a1bc",
+            "MD5": "2d9ed0383a399d7911dedee687771772",
             "path": "config/oculus.properties"
           }
         },
@@ -3886,7 +3929,7 @@
           "artifact": {
             "size": 1250,
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/sound_physics_remastered/occlusion.properties",
-            "MD5": "38f501a242d240ad1c574eb0d1ddfaba",
+            "MD5": "92feae9a8f7a28b6ab2e9e8a1773d84f",
             "path": "config/sound_physics_remastered/occlusion.properties"
           }
         },
@@ -3897,7 +3940,7 @@
           "artifact": {
             "size": 1253,
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/sound_physics_remastered/reflectivity.properties",
-            "MD5": "b5673bed14f774be02dc1da2943341ee",
+            "MD5": "6209d0897080a0e23576538dc3d91cb6",
             "path": "config/sound_physics_remastered/reflectivity.properties"
           }
         },
@@ -3908,7 +3951,7 @@
           "artifact": {
             "size": 769,
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/sound_physics_remastered/soundphysics.properties",
-            "MD5": "9e42f31ece09539644b9224fbd7d41bc",
+            "MD5": "19023a76f1fb4b202a32c70cc7cd1cbe",
             "path": "config/sound_physics_remastered/soundphysics.properties"
           }
         },

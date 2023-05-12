@@ -210,3 +210,8 @@ customization {
   parrot = true
 }
 
+customization {
+  identifier = %id=376322%
+  action = hidebutton
+}
+

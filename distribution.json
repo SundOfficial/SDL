@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
+  "version": "1.4.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,7 +12,7 @@
       "name": "SDL (Minecraft 1.18.2)",
       "description": "SDL Ejecutando Minecraft 1.18.2 (Forge v40.2.2)",
       "icon": "https://cdn.discordapp.com/attachments/1103498515499458560/1106646221541621902/SaquenmeDeLatam_Texto_V3.png",
-      "version": "1.3.0",
+      "version": "1.4.0",
       "address": "194.140.198.244:25503",
       "minecraftVersion": "1.18.2",
       "discord": {
@@ -913,6 +913,16 @@
           }
         },
         {
+          "id": "net.mcreator.itemstomobs:items_to_mobs:1.0.3@jar",
+          "name": "Items To Mobs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 208159,
+            "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/forgemods/required/Items-to-Mobs-1.18.2-1.0.3.jar",
+            "MD5": "ce77693ad47067e794d73f00b3bf3177"
+          }
+        },
+        {
           "id": "mcp.mobius:jade:5.2.6@jar",
           "name": "Jade",
           "type": "ForgeMod",
@@ -1303,6 +1313,16 @@
           }
         },
         {
+          "id": "net.mcreator.scarymobsandbosses:scary_mobs_and_bosses:1.2.0@jar",
+          "name": "Scary Mobs Mobs and Bosses",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 12352167,
+            "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/forgemods/required/Scary_Mobs_And_Bosses-mod_1.2.0.jar",
+            "MD5": "9a80b95ee91594292e9bc55b9f519ea8"
+          }
+        },
+        {
           "id": "net.mehvahdjukaar:selene:1.18.2-1.17.9@jar",
           "name": "Selene",
           "type": "ForgeMod",
@@ -1500,6 +1520,16 @@
             "size": 83111,
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/forgemods/required/walljump-forge-1.18.1-1.3.7.jar",
             "MD5": "4fbd244394a1db4ec6ef1be6879fc4ff"
+          }
+        },
+        {
+          "id": "com.minecraftserverzone:weirdmobs:3.0@jar",
+          "name": "YDM's WeirdMobs mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2298822,
+            "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/forgemods/required/weirdmobs-1-18-2.jar",
+            "MD5": "198589bde476e191d00e5edfbccc53ce"
           }
         },
         {
@@ -2411,7 +2441,7 @@
           "artifact": {
             "size": 42644,
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/byg/backups/last_working_configs_backup.zip",
-            "MD5": "bad81c23dcc6cefccbf6040f9467d7b1",
+            "MD5": "a1af2e6776a85c5c44e588ba91ca510b",
             "path": "config/byg/backups/last_working_configs_backup.zip"
           }
         },
@@ -3014,9 +3044,9 @@
           "name": "customizablemenus.txt",
           "type": "File",
           "artifact": {
-            "size": 806,
+            "size": 879,
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/fancymenu/customizablemenus.txt",
-            "MD5": "ba60c7086fa1f58b0076e0d2b149d6d6",
+            "MD5": "91d73f547ad911cd0fce5a87a4da016f",
             "path": "config/fancymenu/customizablemenus.txt"
           }
         },
@@ -3181,7 +3211,7 @@
           "artifact": {
             "size": 1077,
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/fastload.properties",
-            "MD5": "39c25c3415c3fc8ed987f9777ff7074a",
+            "MD5": "5a56e5cb6e5942c241cb09d260e80a9d",
             "path": "config/fastload.properties"
           }
         },
@@ -3520,9 +3550,9 @@
           "name": "ingredient-list-mod-sort-order.ini",
           "type": "File",
           "artifact": {
-            "size": 799,
+            "size": 860,
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/jei/ingredient-list-mod-sort-order.ini",
-            "MD5": "6850ec3b05765296503c99eef64990cc",
+            "MD5": "5baeafcd4328f3475363fc214c82746d",
             "path": "config/jei/ingredient-list-mod-sort-order.ini"
           }
         },
@@ -3676,7 +3706,7 @@
           "artifact": {
             "size": 236,
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/oculus.properties",
-            "MD5": "04f6bb0e076a4b61979efc1e9af2fa30",
+            "MD5": "b909514f3545b9cbac241ed2e157d4ac",
             "path": "config/oculus.properties"
           }
         },
@@ -3929,7 +3959,7 @@
           "artifact": {
             "size": 1250,
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/sound_physics_remastered/occlusion.properties",
-            "MD5": "99449304b312f4c0316e1f11efca6386",
+            "MD5": "9be1b2b3e6d69e29f1de31742f65cb2c",
             "path": "config/sound_physics_remastered/occlusion.properties"
           }
         },
@@ -3940,7 +3970,7 @@
           "artifact": {
             "size": 1253,
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/sound_physics_remastered/reflectivity.properties",
-            "MD5": "4c0b29b5db113f9e260e8a47271909d1",
+            "MD5": "15b32116714d1a4eaeeaf777e4689351",
             "path": "config/sound_physics_remastered/reflectivity.properties"
           }
         },
@@ -3951,7 +3981,7 @@
           "artifact": {
             "size": 769,
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/sound_physics_remastered/soundphysics.properties",
-            "MD5": "99c34d15d41ec4c21bcd1305c8984f02",
+            "MD5": "f52b68fd6e3246520d88f079d5a8c69f",
             "path": "config/sound_physics_remastered/soundphysics.properties"
           }
         },
@@ -4184,6 +4214,17 @@
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/walljump-common.toml",
             "MD5": "4411ea9159d38619e333e44af44d616e",
             "path": "config/walljump-common.toml"
+          }
+        },
+        {
+          "id": "weirdmobs-common.toml",
+          "name": "weirdmobs-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 10005,
+            "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/weirdmobs-common.toml",
+            "MD5": "5a2d8039ab3919e7c712a681147de0d2",
+            "path": "config/weirdmobs-common.toml"
           }
         },
         {

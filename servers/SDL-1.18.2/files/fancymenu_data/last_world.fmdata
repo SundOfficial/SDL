@@ -1,7 +1,0 @@
-type = last_world
-
-last_world {
-  is_server = false
-  world = C:/Users/willi/curseforge/minecraft/Instances/SDL V2/saves/New World
-}
-

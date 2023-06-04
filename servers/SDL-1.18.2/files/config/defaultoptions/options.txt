@@ -36,7 +36,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","mod_resources","Supplementaries Generated Pack","file/MandalasGUI_Legacy+Modded_Dakmode_v3.8.9.zip","file/Custom+Sounds.zip","file/PantallaNegra.zip"]
+resourcePacks:["vanilla","mod_resources","Supplementaries Generated Pack","file/MandalasGUI_Legacy+Modded_Dakmode_v3.8.9.zip","file/PantallaNegra.zip","file/SonidosV2.zip"]
 incompatibleResourcePacks:["file/MandalasGUI_Legacy+Modded_Dakmode_v3.8.9.zip"]
 lastServer:
 lang:es_mx
@@ -75,7 +75,7 @@ syncChunkWrites:true
 showAutosaveIndicator:true
 allowServerListing:true
 soundCategory_master:0.30463576
-soundCategory_music:0.09859155
+soundCategory_music:0.20070423
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

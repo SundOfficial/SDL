@@ -1,5 +1,5 @@
 {
-  "version": "1.23.0",
+  "version": "1.24.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,7 +12,7 @@
       "name": "SDL (Minecraft 1.18.2)",
       "description": "SDL Ejecutando Minecraft 1.18.2 (Forge v40.2.2)",
       "icon": "https://cdn.discordapp.com/attachments/1103498515499458560/1113982915915812934/Logo_SDL.png",
-      "version": "1.23.0",
+      "version": "1.24.0",
       "address": "104.224.55.129:21001",
       "minecraftVersion": "1.18.2",
       "discord": {
@@ -2529,7 +2529,7 @@
           "artifact": {
             "size": 9057,
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/defaultoptions/keybindings.txt",
-            "MD5": "90d1680a46edec718b54aca6d1a02f9d",
+            "MD5": "9a14105ac47ca613ca9824d6418458c2",
             "path": "config/defaultoptions/keybindings.txt"
           }
         },
@@ -2538,9 +2538,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 2225,
+            "size": 2250,
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/defaultoptions/options.txt",
-            "MD5": "1d29f59a6cdcc9962e206a40784ea41a",
+            "MD5": "8c1f77396c5b871cf0275fc1437ff13f",
             "path": "config/defaultoptions/options.txt"
           }
         },
@@ -3081,6 +3081,17 @@
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/resourcepacks/MandalasGUI_Legacy+Modded_Dakmode_v3.8.9.zip",
             "MD5": "0ea3021dbc5e3e70c6f2904865ab961f",
             "path": "resourcepacks/MandalasGUI_Legacy+Modded_Dakmode_v3.8.9.zip"
+          }
+        },
+        {
+          "id": "PantallaNegra.zip",
+          "name": "PantallaNegra.zip",
+          "type": "File",
+          "artifact": {
+            "size": 139160,
+            "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/resourcepacks/PantallaNegra.zip",
+            "MD5": "d5147984824618e5588fbcffcc01bfe4",
+            "path": "resourcepacks/PantallaNegra.zip"
           }
         },
         {

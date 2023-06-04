@@ -1,5 +1,5 @@
 {
-  "version": "1.19.0",
+  "version": "1.20.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,7 +12,7 @@
       "name": "SDL (Minecraft 1.18.2)",
       "description": "SDL Ejecutando Minecraft 1.18.2 (Forge v40.2.2)",
       "icon": "https://cdn.discordapp.com/attachments/1103498515499458560/1110678064813318154/Logo_SDL.png",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "address": "104.224.55.129:21001",
       "minecraftVersion": "1.18.2",
       "discord": {
@@ -713,6 +713,16 @@
           }
         },
         {
+          "id": "com.firemerald:custombgm:1.4.4@jar",
+          "name": "Custom BGM",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 273890,
+            "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/forgemods/required/CustomBGM-1.18.2-1.4.4.jar",
+            "MD5": "2a597b5c31f3f2fa02afb01dfcddaf93"
+          }
+        },
+        {
           "id": "com.tom:cpm:0.6.7a@jar",
           "name": "Customizable Player Models",
           "type": "ForgeMod",
@@ -970,6 +980,16 @@
             "size": 14792,
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/forgemods/required/feature_nbt_deadlock_be_gone_forge-2.0.0+1.18.2.jar",
             "MD5": "affdfe5b304b5797ef61ebb814f41ec2"
+          }
+        },
+        {
+          "id": "com.firemerald:fecore:1.3.3@jar",
+          "name": "FE Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 350422,
+            "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/forgemods/required/FECore-1.18.2-1.3.3.jar",
+            "MD5": "2b0f8f48be573af039bef869afd85ab0"
           }
         },
         {
@@ -2457,9 +2477,9 @@
           "name": "keybindings.txt",
           "type": "File",
           "artifact": {
-            "size": 8965,
+            "size": 9057,
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/defaultoptions/keybindings.txt",
-            "MD5": "cc84b38030be56ebabd4f815dc615ee7",
+            "MD5": "90d1680a46edec718b54aca6d1a02f9d",
             "path": "config/defaultoptions/keybindings.txt"
           }
         },
@@ -2468,9 +2488,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 2170,
+            "size": 2225,
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/defaultoptions/options.txt",
-            "MD5": "d8fb728d1c1827e35de205207fbaa5fd",
+            "MD5": "1d29f59a6cdcc9962e206a40784ea41a",
             "path": "config/defaultoptions/options.txt"
           }
         },
@@ -2479,9 +2499,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 14242,
+            "size": 97,
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/defaultoptions/servers.dat",
-            "MD5": "b546e7a059f3dd052bfc4eb8bd081618",
+            "MD5": "b338a8121c3920a4fc9b34b0e28d71ac",
             "path": "config/defaultoptions/servers.dat"
           }
         },
@@ -2992,36 +3012,14 @@
           }
         },
         {
-          "id": "sounds.json",
-          "name": "sounds.json",
+          "id": "Custom+Sounds.zip",
+          "name": "Custom+Sounds.zip",
           "type": "File",
           "artifact": {
-            "size": 4,
-            "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/moreplayermodels/assets/moreplayermodels/sounds.json",
-            "MD5": "22e67cc3ae278cb47bca0058382d3330",
-            "path": "moreplayermodels/assets/moreplayermodels/sounds.json"
-          }
-        },
-        {
-          "id": "MorePlayerModels.cfg",
-          "name": "MorePlayerModels.cfg",
-          "type": "File",
-          "artifact": {
-            "size": 1456,
-            "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/moreplayermodels/config/MorePlayerModels.cfg",
-            "MD5": "5dc17159d812fd2123504124729717cd",
-            "path": "moreplayermodels/config/MorePlayerModels.cfg"
-          }
-        },
-        {
-          "id": "pack.mcmeta",
-          "name": "pack.mcmeta",
-          "type": "File",
-          "artifact": {
-            "size": 109,
-            "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/moreplayermodels/pack.mcmeta",
-            "MD5": "e267634a93c503688e5f7dabaeb6cf39",
-            "path": "moreplayermodels/pack.mcmeta"
+            "size": 5847967,
+            "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/resourcepacks/Custom+Sounds.zip",
+            "MD5": "842ca6f857c8c9ad171f49968b7dd08c",
+            "path": "resourcepacks/Custom+Sounds.zip"
           }
         },
         {

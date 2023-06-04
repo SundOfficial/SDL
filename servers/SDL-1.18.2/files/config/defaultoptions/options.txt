@@ -1,5 +1,5 @@
 version:2975
-autoJump:true
+autoJump:false
 autoSuggestions:true
 chatColors:true
 chatLinks:true
@@ -19,7 +19,7 @@ toggleCrouch:false
 toggleSprint:false
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
-mouseSensitivity:0.5
+mouseSensitivity:0.4295774647887324
 fov:0.375
 screenEffectScale:1.0
 fovEffectScale:1.0
@@ -29,14 +29,14 @@ simulationDistance:8
 entityDistanceScaling:1.0
 guiScale:2
 particles:0
-maxFps:260
+maxFps:145
 difficulty:2
 graphicsMode:1
 ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","mod_resources","Supplementaries Generated Pack","file/MandalasGUI_Legacy+Modded_Dakmode_v3.8.9.zip"]
+resourcePacks:["vanilla","mod_resources","Supplementaries Generated Pack","file/MandalasGUI_Legacy+Modded_Dakmode_v3.8.9.zip","file/Custom+Sounds.zip"]
 incompatibleResourcePacks:["file/MandalasGUI_Legacy+Modded_Dakmode_v3.8.9.zip"]
 lastServer:
 lang:es_mx
@@ -75,14 +75,14 @@ syncChunkWrites:true
 showAutosaveIndicator:true
 allowServerListing:true
 soundCategory_master:0.30463576
-soundCategory_music:0.0
+soundCategory_music:0.09859155
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0
 soundCategory_player:1.0
-soundCategory_ambient:1.0
+soundCategory_ambient:0.25704226
 soundCategory_voice:1.0
 modelPart_cape:true
 modelPart_jacket:true

@@ -1,0 +1,56 @@
+type = menu
+
+customization-meta {
+  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = launcher/logocarga.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  original_pos_size_calculation = true
+  x = 210
+  width = 540
+  action = deep_customization_element:drippy_overlay_logo
+  actionid = e9e14c14-3c17-4453-aaf6-f0c6f88c50b01683878992765
+  y = 203
+  height = 134
+}
+
+customization {
+  custom_color_hex = #000000
+  orientation = top-left
+  hidden = false
+  x = -1000000
+  width = 0
+  action = deep_customization_element:drippy_overlay_background
+  actionid = 11f1b48c-02ec-47d0-b0b8-f101e74bbcc41683878992771
+  y = -1000000
+  height = 0
+}
+
+customization {
+  orientation = mid-centered
+  hidden = false
+  original_pos_size_calculation = false
+  x = -163
+  width = 540
+  action = deep_customization_element:drippy_overlay_progress_bar
+  actionid = e67ff241-e41a-4fe0-aa67-2924e5f5a51b1683878992771
+  y = 53
+  height = 10
+}
+

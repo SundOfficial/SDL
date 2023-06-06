@@ -275,13 +275,13 @@ customization {
 customization {
   orientation = top-left
   loop = true
-  channel = music
+  channel = master
   x = 484
   width = 50
   action = custom_layout_element:fancymenu_extension:audio_item
   actionid = 66b249e0-91f3-4584-9fd4-ddd236d8f7c71686076095527
-  y = 190
-  audio_source:5ab69d13-2670-4299-90f0-ba63823bbb9b1686076122357 = launcher/bgmusic.ogg;EXTERNAL_LOCAL;100;0
+  y = 189
+  audio_source:5ab69d13-2670-4299-90f0-ba63823bbb9b1686076122357 = launcher/bgmusic.ogg;EXTERNAL_LOCAL;50;0
   once_per_session = false
   height = 50
 }

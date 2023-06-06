@@ -1,5 +1,5 @@
 {
-  "version": "1.26.0",
+  "version": "1.27.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -11,8 +11,8 @@
       "id": "SDL-1.18.2",
       "name": "SDL (Minecraft 1.18.2)",
       "description": "SDL Ejecutando Minecraft 1.18.2 (Forge v40.2.2)",
-      "icon": "https://cdn.discordapp.com/attachments/1103498515499458560/1113982915915812934/Logo_SDL.png",
-      "version": "1.26.0",
+      "icon": "https://cdn.discordapp.com/attachments/1103498515499458560/1110678064813318154/Logo_SDL.png",
+      "version": "1.27.0",
       "address": "104.224.55.129:21001",
       "minecraftVersion": "1.18.2",
       "discord": {
@@ -760,16 +760,6 @@
             "size": 276862,
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/forgemods/required/curios-forge-1.18.2-5.0.9.0.jar",
             "MD5": "fef26a7b96b7cb8d705c8b684aacc65d"
-          }
-        },
-        {
-          "id": "com.firemerald:custombgm:1.4.4@jar",
-          "name": "Custom BGM",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 273890,
-            "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/forgemods/required/CustomBGM-1.18.2-1.4.4.jar",
-            "MD5": "2a597b5c31f3f2fa02afb01dfcddaf93"
           }
         },
         {
@@ -2644,9 +2634,9 @@
           "name": "customizablemenus.txt",
           "type": "File",
           "artifact": {
-            "size": 1901,
+            "size": 1974,
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/fancymenu/customizablemenus.txt",
-            "MD5": "84cc2e4a48264c2ec1f45e5bcff64af4",
+            "MD5": "9c7760711b038c2a55a3a7453ebf35a1",
             "path": "config/fancymenu/customizablemenus.txt"
           }
         },
@@ -2657,7 +2647,7 @@
           "artifact": {
             "size": 6843,
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/fancymenu/customization/menu.txt",
-            "MD5": "011052126f0dc5c96014ff8278e2ca0c",
+            "MD5": "5d52707377e42dd645425e4d5e447d94",
             "path": "config/fancymenu/customization/menu.txt"
           }
         },
@@ -2824,6 +2814,50 @@
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/fancymenu/user_variables.db",
             "MD5": "eec0f310caf96daa823c26b23cdc031a",
             "path": "config/fancymenu/user_variables.db"
+          }
+        },
+        {
+          "id": "config.cfg",
+          "name": "config.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 211,
+            "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/spiffyhud/config.cfg",
+            "MD5": "0dc8e2d10182e0c0152e5e5ba2f125e9",
+            "path": "config/spiffyhud/config.cfg"
+          }
+        },
+        {
+          "id": "hud.fhlayout",
+          "name": "hud.fhlayout",
+          "type": "File",
+          "artifact": {
+            "size": 1298,
+            "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/spiffyhud/customization/hud.fhlayout",
+            "MD5": "e291632562aac1989ccc9ad0b14a4e90",
+            "path": "config/spiffyhud/customization/hud.fhlayout"
+          }
+        },
+        {
+          "id": "lightmode.enabled",
+          "name": "lightmode.enabled",
+          "type": "File",
+          "artifact": {
+            "size": 0,
+            "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/spiffyhud/lightmode.enabled",
+            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
+            "path": "config/spiffyhud/lightmode.enabled"
+          }
+        },
+        {
+          "id": "en_us.local",
+          "name": "en_us.local",
+          "type": "File",
+          "artifact": {
+            "size": 52649,
+            "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/spiffyhud/locals/en_us.local",
+            "MD5": "8533e93ebf3fe3405a0231a64d0c46dd",
+            "path": "config/spiffyhud/locals/en_us.local"
           }
         },
         {
@@ -3095,9 +3129,9 @@
           "name": "last_world.fmdata",
           "type": "File",
           "artifact": {
-            "size": 85,
+            "size": 136,
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/fancymenu_data/last_world.fmdata",
-            "MD5": "4b779723a0f9c0374b6c6dfd1e3e0abf",
+            "MD5": "14fd9d0bbd48fe44b6f2b0f48c152924",
             "path": "fancymenu_data/last_world.fmdata"
           }
         },
@@ -3187,6 +3221,17 @@
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/launcher/logocarga.png",
             "MD5": "3bdd63da065ff403b8fedc3bc3b8471f",
             "path": "launcher/logocarga.png"
+          }
+        },
+        {
+          "id": "logosdlv3.png",
+          "name": "logosdlv3.png",
+          "type": "File",
+          "artifact": {
+            "size": 1649399,
+            "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/launcher/logosdlv3.png",
+            "MD5": "60d1551a989595a7570c779a60f63acf",
+            "path": "launcher/logosdlv3.png"
           }
         },
         {

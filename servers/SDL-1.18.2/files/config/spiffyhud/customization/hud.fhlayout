@@ -1,0 +1,95 @@
+type = hud
+
+customization-meta {
+  renderorder = foreground
+}
+
+customization {
+  x = 2147483647
+  action = editbosshealth
+  y = 2147483647
+}
+
+customization {
+  x = 2147483647
+  action = editcrosshair
+  y = 2147483647
+}
+
+customization {
+  x = 2147483647
+  action = editexperiencebar
+  y = 2147483647
+}
+
+customization {
+  x = 2147483647
+  action = editplayerfoodbar
+  y = 2147483647
+}
+
+customization {
+  x = 2147483647
+  action = edithotbar
+  y = 2147483647
+}
+
+customization {
+  x = 2147483647
+  action = editplayerhealthbar
+  y = 2147483647
+}
+
+customization {
+  x = 2147483647
+  action = editarmorbar
+  y = 2147483647
+}
+
+customization {
+  x = 2147483647
+  action = editairbar
+  y = 2147483647
+}
+
+customization {
+  x = 2147483647
+  action = edittitle
+  y = 2147483647
+}
+
+customization {
+  x = 2147483647
+  action = editsubtitle
+  y = 2147483647
+}
+
+customization {
+  x = 2147483647
+  action = editselecteditemname
+  y = 2147483647
+}
+
+customization {
+  x = 2147483647
+  action = editoverlaymessage
+  y = 2147483647
+}
+
+customization {
+  x = 2147483647
+  action = editsidebar
+  y = 2147483647
+}
+
+customization {
+  path = launcher/logosdlv3.png
+  orientation = top-left
+  x = 874
+  width = 83
+  action = addtexture
+  actionid = b3dc4152-0c21-4bb3-a16e-d6a1801030f41686082637133
+  y = 459
+  height = 78
+}
+

@@ -20,7 +20,7 @@ toggleSprint:false
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
 mouseSensitivity:0.4295774647887324
-fov:0.375
+fov:0.30732439899155395
 screenEffectScale:1.0
 fovEffectScale:1.0
 gamma:1.0
@@ -29,14 +29,14 @@ simulationDistance:8
 entityDistanceScaling:1.0
 guiScale:2
 particles:0
-maxFps:145
+maxFps:260
 difficulty:2
 graphicsMode:1
 ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","mod_resources","Supplementaries Generated Pack","file/MandalasGUI_Legacy+Modded_Dakmode_v3.8.9.zip","file/PantallaNegra.zip","file/SonidosV2.zip"]
+resourcePacks:["vanilla","mod_resources","Supplementaries Generated Pack","file/MandalasGUI_Legacy+Modded_Dakmode_v3.8.9.zip","file/SonidosV2.zip","file/PantallaNegra.zip"]
 incompatibleResourcePacks:["file/MandalasGUI_Legacy+Modded_Dakmode_v3.8.9.zip"]
 lastServer:
 lang:es_mx
@@ -74,8 +74,8 @@ hideBundleTutorial:false
 syncChunkWrites:true
 showAutosaveIndicator:true
 allowServerListing:true
-soundCategory_master:0.30463576
-soundCategory_music:0.20070423
+soundCategory_master:0.20033112
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

@@ -1,5 +1,5 @@
 {
-  "version": "1.27.0",
+  "version": "1.28.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -11,8 +11,8 @@
       "id": "SDL-1.18.2",
       "name": "SDL (Minecraft 1.18.2)",
       "description": "SDL Ejecutando Minecraft 1.18.2 (Forge v40.2.2)",
-      "icon": "https://cdn.discordapp.com/attachments/1103498515499458560/1110678064813318154/Logo_SDL.png",
-      "version": "1.27.0",
+      "icon": "https://cdn.discordapp.com/attachments/1103498515499458560/1113982915915812934/Logo_SDL.png",
+      "version": "1.28.0",
       "address": "104.224.55.129:21001",
       "minecraftVersion": "1.18.2",
       "discord": {
@@ -2557,9 +2557,9 @@
           "name": "keybindings.txt",
           "type": "File",
           "artifact": {
-            "size": 9057,
+            "size": 9133,
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/defaultoptions/keybindings.txt",
-            "MD5": "61753d798cb461524fe56f39777933a8",
+            "MD5": "881bdc233332cccfa8ab52619a29cc66",
             "path": "config/defaultoptions/keybindings.txt"
           }
         },
@@ -2568,9 +2568,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 2246,
+            "size": 2253,
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/defaultoptions/options.txt",
-            "MD5": "5a743af27f4a4d6e0ca53ecac687158e",
+            "MD5": "286bc06376e849b9e6e2456d0e8ea437",
             "path": "config/defaultoptions/options.txt"
           }
         },
@@ -2579,9 +2579,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 97,
+            "size": 95,
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/defaultoptions/servers.dat",
-            "MD5": "b338a8121c3920a4fc9b34b0e28d71ac",
+            "MD5": "d834015592b9c403f8ce2b12dc4841e4",
             "path": "config/defaultoptions/servers.dat"
           }
         },
@@ -2634,9 +2634,9 @@
           "name": "customizablemenus.txt",
           "type": "File",
           "artifact": {
-            "size": 1974,
+            "size": 2193,
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/fancymenu/customizablemenus.txt",
-            "MD5": "9c7760711b038c2a55a3a7453ebf35a1",
+            "MD5": "c1c1d9378f9d8379b56468066f019469",
             "path": "config/fancymenu/customizablemenus.txt"
           }
         },
@@ -2645,9 +2645,9 @@
           "name": "menu.txt",
           "type": "File",
           "artifact": {
-            "size": 6843,
+            "size": 6841,
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/config/fancymenu/customization/menu.txt",
-            "MD5": "5d52707377e42dd645425e4d5e447d94",
+            "MD5": "7024e22165a3217922d08bfe6dd31917",
             "path": "config/fancymenu/customization/menu.txt"
           }
         },
@@ -3342,17 +3342,6 @@
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/resourcepacks/PantallaNegra.zip",
             "MD5": "d5147984824618e5588fbcffcc01bfe4",
             "path": "resourcepacks/PantallaNegra.zip"
-          }
-        },
-        {
-          "id": "SonidosV2.zip",
-          "name": "SonidosV2.zip",
-          "type": "File",
-          "artifact": {
-            "size": 7091761,
-            "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/resourcepacks/SonidosV2.zip",
-            "MD5": "f68824bf27feec1984033af852a228c9",
-            "path": "resourcepacks/SonidosV2.zip"
           }
         },
         {

@@ -231,7 +231,7 @@ customization {
 customization {
   orientation = mid-left
   restartbackgroundanimations = true
-  buttonaction = joinserver;104.224.55.129:21001%btnaction_splitter_fm%
+  buttonaction = joinserver;23.230.3.221:25570%btnaction_splitter_fm%
   backgroundhovered = launcher/unirseboton2.png
   label = 
   loopbackgroundanimations = true

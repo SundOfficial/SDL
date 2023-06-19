@@ -1,5 +1,5 @@
 {
-  "version": "1.29.0",
+  "version": "1.30.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,7 +12,7 @@
       "name": "SDL (Minecraft 1.18.2)",
       "description": "SDL Ejecutando Minecraft 1.18.2 (Forge v40.2.2)",
       "icon": "https://cdn.discordapp.com/attachments/1103498515499458560/1113982915915812934/Logo_SDL.png",
-      "version": "1.29.0",
+      "version": "1.30.0",
       "address": "104.224.55.129:21001",
       "minecraftVersion": "1.18.2",
       "discord": {
@@ -3342,6 +3342,17 @@
             "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/resourcepacks/PantallaNegra.zip",
             "MD5": "d5147984824618e5588fbcffcc01bfe4",
             "path": "resourcepacks/PantallaNegra.zip"
+          }
+        },
+        {
+          "id": "SonidosEventoBumblezoneV1.zip",
+          "name": "SonidosEventoBumblezoneV1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 5034342,
+            "url": "https://raw.githubusercontent.com/SundOfficial/SDL/master/servers/SDL-1.18.2/files/resourcepacks/SonidosEventoBumblezoneV1.zip",
+            "MD5": "5aa43b23c11825e049fbb6e90886a1c5",
+            "path": "resourcepacks/SonidosEventoBumblezoneV1.zip"
           }
         },
         {

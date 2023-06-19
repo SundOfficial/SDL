@@ -1,7 +1,7 @@
 {
   "$schema": "file:///C:/NebulaWorkspace/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.29.0",
+    "version": "1.30.0",
     "name": "SDL (Minecraft 1.18.2)",
     "description": "SDL Ejecutando Minecraft 1.18.2 (Forge v40.2.2)",
     "address": "104.224.55.129:21001",
